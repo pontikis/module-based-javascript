@@ -1,0 +1,23 @@
+{
+  "name": "module-based-javascript",
+  "version": "1.0.0",
+  "description": "https://dev.to/ayushmanbthakur/es6-module-based-javascript-in-browser-4pgm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmanbt/module-based-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushmanbt/module-based-javascript/issues"
+  },
+  "homepage": "https://github.com/ayushmanbt/module-based-javascript#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
